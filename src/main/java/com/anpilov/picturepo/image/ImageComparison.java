@@ -12,7 +12,7 @@ import java.util.Arrays;
 public class ImageComparison {
 
 	static {
-//		System.load(new File("lib\\x64\\" + Core.NATIVE_LIBRARY_NAME + ".dll").getAbsolutePath());
+		OpenCVLoader.load();
 	}
 
 	public static final double DEFAULT_TRESHOLD = 0.9;
