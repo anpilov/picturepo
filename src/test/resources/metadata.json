@@ -1,0 +1,2351 @@
+{
+  "id": "9672437f-2bff-48ab-b3dd-28314aeb57c8",
+  "name": "amsterdam_photo",
+  "images": [
+    {
+      "id": "18b1f9ea-9ccc-41c3-becb-05bf570be796",
+      "name": "IMG_3900.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3900.JPG",
+      "similarityGroup": "db489517-7ea2-4add-9344-1883676402b4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "283df751-d3b8-441e-a09a-d868b13c7fb9",
+      "name": "IMG_3901.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3901.JPG",
+      "similarityGroup": "db489517-7ea2-4add-9344-1883676402b4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "efb8e93f-77ad-487d-bae8-5ec6429a508f",
+      "name": "IMG_3902.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3902.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b3298723-4363-47ae-81d6-b7f04e9673ab",
+      "name": "IMG_3903.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3903.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ac15dc61-fd2b-4ecc-9c06-ca69462ca21e",
+      "name": "IMG_3904.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3904.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "eca07cba-856b-4821-8278-bb6a978b8d9b",
+      "name": "IMG_3905.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3905.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "225f5b24-41b5-4672-8b99-82d753fc38f0",
+      "name": "IMG_3906.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3906.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "f17bdeb5-3f98-4020-a7f1-8ee1edbd488c",
+      "name": "IMG_3907.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3907.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "82ff8cce-794e-4292-9bf0-8ebf9d1d863a",
+      "name": "IMG_3908.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3908.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a1916f34-6649-41f2-8b98-dbfc35eae16c",
+      "name": "IMG_3909.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3909.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6e52faec-40f9-48dd-91bd-aa1ba3f6b3c8",
+      "name": "IMG_3910.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3910.JPG",
+      "similarityGroup": "5fa13978-7b82-4e65-b7ad-f57ea93a18e9",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "071530d6-0b2d-40f6-8e3e-7ee82101afbc",
+      "name": "IMG_3911.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3911.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "3f5a350f-a339-4d94-a3a1-e39cc02f97bf",
+      "name": "IMG_3912.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3912.JPG",
+      "similarityGroup": "cf30363e-5043-409a-a0c5-ffb0660b6370",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2ad81060-841c-4081-99f6-1aa6ab256150",
+      "name": "IMG_3913.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3913.JPG",
+      "similarityGroup": "cf30363e-5043-409a-a0c5-ffb0660b6370",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "48189f36-d92e-4312-91ff-2fc4fc11be20",
+      "name": "IMG_3914.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3914.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "48d5acfe-8e0d-497c-8f3b-0dad64035f74",
+      "name": "IMG_3915.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3915.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "16450129-be7c-40ea-bf50-5a2b9a4122ef",
+      "name": "IMG_3916.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3916.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9bcf7e33-2fad-4a0c-b881-d063e976ce85",
+      "name": "IMG_3917.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3917.JPG",
+      "similarityGroup": "c3d59b88-7645-461d-987e-11acd3215ce6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a22aecf0-c17b-4150-b456-58b822ca1c13",
+      "name": "IMG_3918.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3918.JPG",
+      "similarityGroup": "c3d59b88-7645-461d-987e-11acd3215ce6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "108c99cd-fe12-4f3b-b25f-6487792a89e1",
+      "name": "IMG_3919.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3919.JPG",
+      "similarityGroup": "c3d59b88-7645-461d-987e-11acd3215ce6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0ef00904-78ba-44c9-a056-45e3b47a27b3",
+      "name": "IMG_3920.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3920.JPG",
+      "similarityGroup": "5f4907c7-43eb-4963-9cf4-2c2f919aa11e",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "edd17e9c-ac62-45a3-81d2-8e59da0e3d91",
+      "name": "IMG_3921.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3921.JPG",
+      "similarityGroup": "5f4907c7-43eb-4963-9cf4-2c2f919aa11e",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "15d2ce96-6f34-420f-8619-9ed86a12da9e",
+      "name": "IMG_3922.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3922.JPG",
+      "similarityGroup": "5f4907c7-43eb-4963-9cf4-2c2f919aa11e",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e107822e-cb00-48f0-bec4-fac809f5671c",
+      "name": "IMG_3923.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3923.JPG",
+      "similarityGroup": "7310e325-2022-4c0f-a00e-f49d1d16d369",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b0235884-41c7-4bba-976a-da00a8370919",
+      "name": "IMG_3924.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3924.JPG",
+      "similarityGroup": "7310e325-2022-4c0f-a00e-f49d1d16d369",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "47f9b032-0dba-4841-96c2-eb194d6c6d78",
+      "name": "IMG_3925.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3925.JPG",
+      "similarityGroup": "7310e325-2022-4c0f-a00e-f49d1d16d369",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6c5a91fa-0e16-48c1-a033-e04402d44330",
+      "name": "IMG_3926.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3926.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "46f39909-50ef-44df-b168-328583e9f293",
+      "name": "IMG_3927.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3927.JPG",
+      "similarityGroup": "e531a89f-0487-48af-a67b-1ee3bd848714",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7457b3fc-e7de-4c32-ba30-c8d95ecdc264",
+      "name": "IMG_3928.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3928.JPG",
+      "similarityGroup": "e531a89f-0487-48af-a67b-1ee3bd848714",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "00588b10-20b6-47d5-afbb-4519b88f617f",
+      "name": "IMG_3929.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3929.JPG",
+      "similarityGroup": "e531a89f-0487-48af-a67b-1ee3bd848714",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2fc1eebe-c017-4b47-b2a0-aff79ee8fbee",
+      "name": "IMG_3930.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3930.JPG",
+      "similarityGroup": "e531a89f-0487-48af-a67b-1ee3bd848714",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "20bde41e-de42-4d56-916c-b8befcddffb3",
+      "name": "IMG_3931.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3931.JPG",
+      "similarityGroup": "e531a89f-0487-48af-a67b-1ee3bd848714",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2f9841eb-d114-49a1-9df8-91fec7f4d2fb",
+      "name": "IMG_3932.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3932.JPG",
+      "similarityGroup": "e531a89f-0487-48af-a67b-1ee3bd848714",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "30e4088a-e2fe-4e78-af4f-09c8789ee26b",
+      "name": "IMG_3933.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3933.JPG",
+      "similarityGroup": "e531a89f-0487-48af-a67b-1ee3bd848714",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9eabaa0d-1731-426d-a3a3-84d73d64fb72",
+      "name": "IMG_3934.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3934.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "deb7bfcc-e2be-48e9-9c00-d9e37a35d5df",
+      "name": "IMG_3935.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3935.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "16b2c470-8e91-44d4-bbe4-21d51330e67d",
+      "name": "IMG_3936.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3936.JPG",
+      "similarityGroup": "3121f872-b093-48f3-8877-2a3c1fe692fe",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "efb19f01-2e14-46ef-a351-a8d8af0abfe1",
+      "name": "IMG_3937.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3937.JPG",
+      "similarityGroup": "3121f872-b093-48f3-8877-2a3c1fe692fe",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "f4d9939e-4e8b-436d-bd70-1fde440abee3",
+      "name": "IMG_3938.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3938.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d8125c57-2124-412f-93a9-0b5c6ee0c392",
+      "name": "IMG_3939.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3939.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "fadca282-548b-45ef-8b67-c7235bed53cc",
+      "name": "IMG_3940.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3940.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9044e1c6-97de-4d82-9b1b-8ac981d62b2d",
+      "name": "IMG_3941.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3941.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "61d62505-9387-40ed-914c-c723e1c78c64",
+      "name": "IMG_3942.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3942.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "fd6b21d2-0b4a-48cb-b037-aed79c18a766",
+      "name": "IMG_3943.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3943.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "20b75c49-11c6-4126-b5a5-e2af9080074f",
+      "name": "IMG_3944.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3944.JPG",
+      "similarityGroup": "82c5fdfb-daf8-45d3-b7eb-6b7f422d02dc",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "123b469d-2f92-45ed-8e02-1cad6cdf579c",
+      "name": "IMG_3945.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3945.JPG",
+      "similarityGroup": "82c5fdfb-daf8-45d3-b7eb-6b7f422d02dc",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "61f7460d-f6c6-45c4-ae2c-d7ade07d0701",
+      "name": "IMG_3946.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3946.JPG",
+      "similarityGroup": "cc49b091-64c4-4833-b58a-49139cb543f1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7006bcb4-8c63-4784-b4e7-04627e29c1e3",
+      "name": "IMG_3947.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3947.JPG",
+      "similarityGroup": "cc49b091-64c4-4833-b58a-49139cb543f1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6d4e04b0-54ff-4221-af64-a9ac77f7e212",
+      "name": "IMG_3948.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3948.JPG",
+      "similarityGroup": "5ca9cd80-45e9-419d-9841-a3c7c233f41c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b2a411e3-e4f4-4c2c-b0e0-7dff7840a3c1",
+      "name": "IMG_3949.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3949.JPG",
+      "similarityGroup": "5ca9cd80-45e9-419d-9841-a3c7c233f41c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9232527a-a853-4d82-8781-028f36c460a9",
+      "name": "IMG_3950.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3950.JPG",
+      "similarityGroup": "f3c14130-5df2-4cda-a966-c7f4753c1f8f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "947abdbc-35c1-4c55-ae39-e984845ae1a6",
+      "name": "IMG_3951.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3951.JPG",
+      "similarityGroup": "f3c14130-5df2-4cda-a966-c7f4753c1f8f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "71b94c8c-977c-4b5e-828c-0149e0b739c3",
+      "name": "IMG_3952.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3952.JPG",
+      "similarityGroup": "f3c14130-5df2-4cda-a966-c7f4753c1f8f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "051bec27-2b0a-4b12-b12c-0b1ca7d88e44",
+      "name": "IMG_3953.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3953.JPG",
+      "similarityGroup": "5863e65f-dea3-42ff-a220-d9e40679e13f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8ea1ae96-ed15-4caf-ad96-935dd28f56c6",
+      "name": "IMG_3954.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3954.JPG",
+      "similarityGroup": "5863e65f-dea3-42ff-a220-d9e40679e13f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e7ca2ed4-fa8a-4548-9c69-0290d164f8d1",
+      "name": "IMG_3955.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3955.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "20c02d31-e447-42cd-b101-330396f170d6",
+      "name": "IMG_3956.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3956.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "430e3611-30b4-4bd5-b331-00578fa7dee9",
+      "name": "IMG_3957.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3957.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "822d4a71-1af4-495b-a843-11bae574d954",
+      "name": "IMG_3958.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3958.JPG",
+      "similarityGroup": "ef55f583-6453-427c-bbba-76d7d89d4c9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9f6c7a9d-ae8f-4f7a-a996-0916245389bf",
+      "name": "IMG_3959.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3959.JPG",
+      "similarityGroup": "ef55f583-6453-427c-bbba-76d7d89d4c9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "79697b28-e486-40d2-b7c8-740e07e1ef77",
+      "name": "IMG_3960.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3960.JPG",
+      "similarityGroup": "ef55f583-6453-427c-bbba-76d7d89d4c9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "bcd0cbd5-d63e-4ffd-8b7a-00316be0de4a",
+      "name": "IMG_3961.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3961.JPG",
+      "similarityGroup": "ef55f583-6453-427c-bbba-76d7d89d4c9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "23b10a44-0069-4f22-a905-17750165399c",
+      "name": "IMG_3962.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3962.JPG",
+      "similarityGroup": "ef55f583-6453-427c-bbba-76d7d89d4c9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c6818250-1cf2-4b55-a3ce-02f2edd5cf9b",
+      "name": "IMG_3963.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3963.JPG",
+      "similarityGroup": "ef55f583-6453-427c-bbba-76d7d89d4c9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "47ee46fc-3759-4cb5-84c2-c0b18eb5dee0",
+      "name": "IMG_3964.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3964.JPG",
+      "similarityGroup": "afb42cb6-245d-470b-9d62-87cb24319dc6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9757b612-d083-46e0-8485-c0d8a67681d8",
+      "name": "IMG_3965.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3965.JPG",
+      "similarityGroup": "afb42cb6-245d-470b-9d62-87cb24319dc6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b59d4ccf-fdc2-46b4-a141-87a26db478b1",
+      "name": "IMG_3966.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3966.JPG",
+      "similarityGroup": "afb42cb6-245d-470b-9d62-87cb24319dc6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a8c51212-7bbb-4b51-898e-ba44353e93a4",
+      "name": "IMG_3967.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3967.JPG",
+      "similarityGroup": "afb42cb6-245d-470b-9d62-87cb24319dc6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e654be68-121f-4279-8c7d-6e7f1a76129f",
+      "name": "IMG_3968.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3968.JPG",
+      "similarityGroup": "afb42cb6-245d-470b-9d62-87cb24319dc6",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9f34e2eb-3b07-4c8e-84fc-4eccb3407920",
+      "name": "IMG_3969.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3969.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "55a4e996-06d9-4311-ac32-94c44f55e746",
+      "name": "IMG_3970.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3970.JPG",
+      "similarityGroup": "7d5f3f87-a5f4-4467-99d4-05274a57242a",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "05233ce3-6d54-4311-b6f0-b9311ad807e5",
+      "name": "IMG_3971.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3971.JPG",
+      "similarityGroup": "7d5f3f87-a5f4-4467-99d4-05274a57242a",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b82bb016-75d7-435b-bfd6-e627a1fde262",
+      "name": "IMG_3972.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3972.JPG",
+      "similarityGroup": "664ebee5-43cd-4bfa-a0f5-4d11c12c8b44",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4e3b394d-ef6d-4149-8e19-8d9ce4fd503a",
+      "name": "IMG_3973.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3973.JPG",
+      "similarityGroup": "664ebee5-43cd-4bfa-a0f5-4d11c12c8b44",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c0b5402e-5f74-49c5-994c-ee3c0af3e36a",
+      "name": "IMG_3974.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3974.JPG",
+      "similarityGroup": "e92f42bf-3a68-4fd5-9cf4-13ecb8bcbb15",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "f66a07ee-a954-472d-b2fd-afea5050f0d0",
+      "name": "IMG_3975.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3975.JPG",
+      "similarityGroup": "e92f42bf-3a68-4fd5-9cf4-13ecb8bcbb15",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "da66a57f-96f5-42ba-a560-04b95f06a210",
+      "name": "IMG_3976.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3976.JPG",
+      "similarityGroup": "fbc627a6-9c1f-4a7f-b39a-0cab34cd56d8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "eb602994-7f37-47b1-abca-ace28f166cc6",
+      "name": "IMG_3977.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3977.JPG",
+      "similarityGroup": "fbc627a6-9c1f-4a7f-b39a-0cab34cd56d8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e36da5be-a6a9-44b3-9e9b-7935d0e5f4d8",
+      "name": "IMG_3978.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3978.JPG",
+      "similarityGroup": "fbc627a6-9c1f-4a7f-b39a-0cab34cd56d8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "24f29735-97fd-4c95-9aad-ef8f38163443",
+      "name": "IMG_3979.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3979.JPG",
+      "similarityGroup": "fbc627a6-9c1f-4a7f-b39a-0cab34cd56d8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "be165ada-3370-4a37-82c2-55634fa32d7a",
+      "name": "IMG_3980.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3980.JPG",
+      "similarityGroup": "fbc627a6-9c1f-4a7f-b39a-0cab34cd56d8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ab006091-2b5a-4af8-8210-91c8a465436d",
+      "name": "IMG_3981.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3981.JPG",
+      "similarityGroup": "fbc627a6-9c1f-4a7f-b39a-0cab34cd56d8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "eab28a32-8398-4612-9354-9a9e5c294834",
+      "name": "IMG_3982.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3982.JPG",
+      "similarityGroup": "fbc627a6-9c1f-4a7f-b39a-0cab34cd56d8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2ef2f3ee-b0a6-487e-889f-acf16f27ab98",
+      "name": "IMG_3983.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3983.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "22b12f3d-e8d1-4450-b927-b4725d52bc48",
+      "name": "IMG_3984.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3984.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0be5a4a3-48be-4377-b46c-3633cc7dec3b",
+      "name": "IMG_3985.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3985.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e76811bf-b391-4c6c-8950-1842c0a06d2c",
+      "name": "IMG_3986.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3986.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "463a81aa-9a09-4791-a91f-36e53854558f",
+      "name": "IMG_3987.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3987.JPG",
+      "similarityGroup": "e39c96de-c977-46f2-b665-5d5793254c09",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ede63470-7696-4cb8-b344-4a7d1a3179c3",
+      "name": "IMG_3988.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3988.JPG",
+      "similarityGroup": "e39c96de-c977-46f2-b665-5d5793254c09",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "1972befb-db18-4aba-9eae-54806a9bf1e4",
+      "name": "IMG_3989.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3989.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "21f64fd3-4735-4ea2-aa6b-eb251e9eaf83",
+      "name": "IMG_3990.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3990.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6832f050-9ddc-4b19-8578-922ca797bed4",
+      "name": "IMG_3991.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3991.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d7e2f3f4-f992-409d-97bc-d430b20e9af8",
+      "name": "IMG_3992.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3992.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "49c21f48-c413-4a8b-add9-fad627ee6d7d",
+      "name": "IMG_3993.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3993.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "98e9e62b-5c49-4595-ab2e-5328b36ac799",
+      "name": "IMG_3994.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3994.JPG",
+      "similarityGroup": "3283681c-b429-4b35-afea-1f453f5fcb5f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b45cb174-a825-4b74-b453-bff9bf8af6f7",
+      "name": "IMG_3995.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3995.JPG",
+      "similarityGroup": "3283681c-b429-4b35-afea-1f453f5fcb5f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e592d817-12e5-47d2-a3af-a8b3e5cf04e1",
+      "name": "IMG_3996.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3996.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9863b2a3-05da-4168-bf9f-bdd2e2f1f5fe",
+      "name": "IMG_3997.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3997.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c1fb6264-9eae-4978-825d-6f8d35aaa60b",
+      "name": "IMG_3998.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3998.JPG",
+      "similarityGroup": "8df89961-7866-4e8d-919a-d1bf8ed336b1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "489cdbd4-bb1a-4ff7-a7ff-963dd6d95e3d",
+      "name": "IMG_3999.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_3999.JPG",
+      "similarityGroup": "8df89961-7866-4e8d-919a-d1bf8ed336b1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "01a8d404-93b8-43b1-886b-111ccb370032",
+      "name": "IMG_4000.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4000.JPG",
+      "similarityGroup": "8df89961-7866-4e8d-919a-d1bf8ed336b1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2cd5b930-aa78-440b-9546-a3746c69de67",
+      "name": "IMG_4001.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4001.JPG",
+      "similarityGroup": "8df89961-7866-4e8d-919a-d1bf8ed336b1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a59cd859-a1ba-44e6-9bfc-e59e6dacae11",
+      "name": "IMG_4002.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4002.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "62696a1e-7506-438f-96c7-edc0ad391422",
+      "name": "IMG_4003.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4003.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "33e52f36-b731-4ec3-81a3-bb675928ba57",
+      "name": "IMG_4004.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4004.JPG",
+      "similarityGroup": "b70cabb6-9d4f-499b-ac2f-5631b9a9adf4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9d240d0f-86ff-45c4-b595-e17073aa104f",
+      "name": "IMG_4005.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4005.JPG",
+      "similarityGroup": "b70cabb6-9d4f-499b-ac2f-5631b9a9adf4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "034899e9-de7f-4cd4-9156-be6abb86f514",
+      "name": "IMG_4006.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4006.JPG",
+      "similarityGroup": "b70cabb6-9d4f-499b-ac2f-5631b9a9adf4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "56d5aa4c-3f82-44f0-81bd-707c7db7b374",
+      "name": "IMG_4007.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4007.JPG",
+      "similarityGroup": "b70cabb6-9d4f-499b-ac2f-5631b9a9adf4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4d57f97b-15fd-42dd-aa5a-5e79d2b9ad08",
+      "name": "IMG_4008.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4008.JPG",
+      "similarityGroup": "b70cabb6-9d4f-499b-ac2f-5631b9a9adf4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "35e12440-2b6a-4f20-ac27-a8a888fa647b",
+      "name": "IMG_4009.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4009.JPG",
+      "similarityGroup": "d90ad7bc-fcce-472d-a619-4072de54564b",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b9447969-b6ed-4975-8182-a16b266c0f9b",
+      "name": "IMG_4010.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4010.JPG",
+      "similarityGroup": "d90ad7bc-fcce-472d-a619-4072de54564b",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6b7c450b-b655-4d74-88ce-4316f37890c2",
+      "name": "IMG_4011.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4011.JPG",
+      "similarityGroup": "d90ad7bc-fcce-472d-a619-4072de54564b",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0bbf14f0-afad-442e-8c4b-b0f8c68d53a2",
+      "name": "IMG_4012.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4012.JPG",
+      "similarityGroup": "8e261bbf-1b5b-4481-8071-c535d376562b",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "f856ef1c-1da3-4bb8-b9eb-1d488e6e515f",
+      "name": "IMG_4013.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4013.JPG",
+      "similarityGroup": "8e261bbf-1b5b-4481-8071-c535d376562b",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4a8dfb25-b5bb-408f-93a2-a1d2a8f381b6",
+      "name": "IMG_4014.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4014.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "50d92a76-71e9-4234-8edf-b9db8bf7b031",
+      "name": "IMG_4015.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4015.JPG",
+      "similarityGroup": "aad8243a-e459-494e-90b0-5c9d9b78c4bf",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6bc43267-296a-407b-9a44-37793ab9db26",
+      "name": "IMG_4016.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4016.JPG",
+      "similarityGroup": "aad8243a-e459-494e-90b0-5c9d9b78c4bf",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c7f90527-55e9-4f58-a694-bde61a7e6db7",
+      "name": "IMG_4017.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4017.JPG",
+      "similarityGroup": "aad8243a-e459-494e-90b0-5c9d9b78c4bf",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ab4ea9fb-6fb3-458e-9ada-370836b9a1e1",
+      "name": "IMG_4018.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4018.JPG",
+      "similarityGroup": "a8c65fd8-e05f-4549-ae2c-7b6a7531dfac",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4c098a33-3a7f-416f-b9c9-04260d89fb7c",
+      "name": "IMG_4019.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4019.JPG",
+      "similarityGroup": "a8c65fd8-e05f-4549-ae2c-7b6a7531dfac",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "20c305f1-b9a8-4dc8-a7af-bcce60e01e07",
+      "name": "IMG_4020.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4020.JPG",
+      "similarityGroup": "a8c65fd8-e05f-4549-ae2c-7b6a7531dfac",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0ea74761-87f9-4965-93d0-643334581839",
+      "name": "IMG_4021.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4021.JPG",
+      "similarityGroup": "f53ff7c7-c95f-4344-af7b-beea106089ff",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "65de9e04-304e-4672-9814-817f99b6c9f7",
+      "name": "IMG_4022.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4022.JPG",
+      "similarityGroup": "f53ff7c7-c95f-4344-af7b-beea106089ff",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6d83b280-b8ce-495b-a721-72f7a5fc607f",
+      "name": "IMG_4023.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4023.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b6ddb19f-ff29-4284-b82c-37394aaf0fdd",
+      "name": "IMG_4024.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4024.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "1db3eb3f-ff4b-4719-89a8-f2290abbfe85",
+      "name": "IMG_4025.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4025.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "f74c3590-ee41-40cf-ad53-43530ca89141",
+      "name": "IMG_4026.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4026.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "35c0e540-603c-432c-a77d-3431d3967340",
+      "name": "IMG_4027.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4027.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d5aaee2b-a234-4ed5-b7f7-56e3a6cc952a",
+      "name": "IMG_4028.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4028.JPG",
+      "similarityGroup": "5f882e2e-5bcd-4dba-8c0e-e00ab03391ca",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c1d66313-cc32-458a-9886-b3b888e2ee04",
+      "name": "IMG_4029.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4029.JPG",
+      "similarityGroup": "5f882e2e-5bcd-4dba-8c0e-e00ab03391ca",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "88b79e81-70dc-417f-937b-846e83fcfbe8",
+      "name": "IMG_4030.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4030.JPG",
+      "similarityGroup": "351d6fd8-c422-4b17-9dad-311310aab413",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8e3dfb1a-698e-407e-bb9b-8b3d11fb8d6d",
+      "name": "IMG_4031.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4031.JPG",
+      "similarityGroup": "351d6fd8-c422-4b17-9dad-311310aab413",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9120bbcb-2f07-4b0a-a576-4ee330e7a262",
+      "name": "IMG_4032.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4032.JPG",
+      "similarityGroup": "351d6fd8-c422-4b17-9dad-311310aab413",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0cae5b68-56a0-4208-a462-2341fa9e7c83",
+      "name": "IMG_4033.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4033.JPG",
+      "similarityGroup": "351d6fd8-c422-4b17-9dad-311310aab413",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "48220355-ac30-458b-b408-936108b9d861",
+      "name": "IMG_4034.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4034.JPG",
+      "similarityGroup": "351d6fd8-c422-4b17-9dad-311310aab413",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "17cbcc43-5a30-40bc-b217-aae62d36a5c2",
+      "name": "IMG_4035.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4035.JPG",
+      "similarityGroup": "351d6fd8-c422-4b17-9dad-311310aab413",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "11fb9cdb-7e61-45c6-a9b8-8be3f67c4195",
+      "name": "IMG_4036.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4036.JPG",
+      "similarityGroup": "97901890-532f-4ccb-8cae-247c72980a4c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "39d1c56e-fd8f-4a7b-b6e1-719a94ec1fba",
+      "name": "IMG_4037.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4037.JPG",
+      "similarityGroup": "97901890-532f-4ccb-8cae-247c72980a4c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ad112df7-e19c-47de-bb47-8d4c1b585f15",
+      "name": "IMG_4038.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4038.JPG",
+      "similarityGroup": "97901890-532f-4ccb-8cae-247c72980a4c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "048d0b0c-ab49-4b5d-8d6c-8cdf9cb80294",
+      "name": "IMG_4039.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4039.JPG",
+      "similarityGroup": "97901890-532f-4ccb-8cae-247c72980a4c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2bcae508-3f3f-4cdd-8f65-1488bc78c657",
+      "name": "IMG_4040.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4040.JPG",
+      "similarityGroup": "97901890-532f-4ccb-8cae-247c72980a4c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9e73f770-552e-477f-93f4-0b39573911c3",
+      "name": "IMG_4041.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4041.JPG",
+      "similarityGroup": "97901890-532f-4ccb-8cae-247c72980a4c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "207453bf-747d-46ee-b446-a4a36c4a92bf",
+      "name": "IMG_4042.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4042.JPG",
+      "similarityGroup": "d0d3f765-fd70-4481-9f59-135499a27f50",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b94fd245-98ae-46d8-ac3e-919158ea274e",
+      "name": "IMG_4043.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4043.JPG",
+      "similarityGroup": "d0d3f765-fd70-4481-9f59-135499a27f50",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7d6401f7-fd63-4a23-86b7-cebbdbd6c0e8",
+      "name": "IMG_4044.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4044.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "baf3cd56-e1ea-4b35-a888-48cae55b8a22",
+      "name": "IMG_4045.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4045.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "3c082f07-f0a1-46a5-9b80-fe416c0abd34",
+      "name": "IMG_4046.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4046.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "efbb39f5-2c62-48d0-96c2-8d366b51f9f2",
+      "name": "IMG_4047.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4047.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c7976816-6329-48cb-bae9-8f11eed505bc",
+      "name": "IMG_4048.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4048.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "cef329a6-b841-4b88-b900-0f8db214c256",
+      "name": "IMG_4049.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4049.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ef7a7154-983b-48ed-9246-efa89862a1e4",
+      "name": "IMG_4050.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4050.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "cd5786bb-ef2c-4525-bbaa-ca8a60966f06",
+      "name": "IMG_4051.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4051.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7e49e525-3294-403c-96c3-fee9ec57a82c",
+      "name": "IMG_4052.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4052.JPG",
+      "similarityGroup": "0f3dcc94-5087-4116-a7e2-63908cb632bc",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2bb3733e-e289-4cc3-94cb-ec6538a1b3a9",
+      "name": "IMG_4053.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4053.JPG",
+      "similarityGroup": "0f3dcc94-5087-4116-a7e2-63908cb632bc",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ebab0954-1542-43b5-a276-5496cd7610f8",
+      "name": "IMG_4054.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4054.JPG",
+      "similarityGroup": "b78ceab1-a1ae-48e5-ba6f-ddaa1ed97220",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "cd6d9f3b-ae85-4cc4-991a-169421d97198",
+      "name": "IMG_4055.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4055.JPG",
+      "similarityGroup": "b78ceab1-a1ae-48e5-ba6f-ddaa1ed97220",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "5017f7bd-9a4e-4e34-9c66-3d174d263778",
+      "name": "IMG_4056.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4056.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "82fece7d-d878-4ccb-820d-47b325a96f40",
+      "name": "IMG_4057.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4057.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "afd65820-9598-4da8-b156-b7458f141d3d",
+      "name": "IMG_4058.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4058.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "32eddc67-144f-4b1a-8e52-6a32eb249fa1",
+      "name": "IMG_4059.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4059.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "67fc0e46-24b3-454d-92ba-3692d1c83af5",
+      "name": "IMG_4060.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4060.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c23231e5-94aa-4dd6-9076-340893ece3d5",
+      "name": "IMG_4061.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4061.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "25405274-fca5-4c63-8edd-e5c5bfcaf3a6",
+      "name": "IMG_4062.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4062.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "56d5b519-c61d-43f1-80f3-9b8bd51434b1",
+      "name": "IMG_4063.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4063.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d7d4a77f-4979-4478-8303-148592094573",
+      "name": "IMG_4064.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4064.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c7d34e63-a180-4e2f-9b64-391ae7bc8f74",
+      "name": "IMG_4065.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4065.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a3347756-1631-4f0b-a55a-c3623b5700b5",
+      "name": "IMG_4066.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4066.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "db6d2617-54c4-40bd-8ef7-0ca6bfe55592",
+      "name": "IMG_4067.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4067.JPG",
+      "similarityGroup": "58c6120d-3b46-44ad-8ece-c18e98146e79",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7accd848-5f8f-4afa-9914-628c1d46888e",
+      "name": "IMG_4068.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4068.JPG",
+      "similarityGroup": "58c6120d-3b46-44ad-8ece-c18e98146e79",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d13bad1f-dde9-4337-a020-4a1c9c5b8de7",
+      "name": "IMG_4069.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4069.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "bb860baa-e5ce-4e1f-9f30-1f96226943e7",
+      "name": "IMG_4070.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4070.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4fbd50e8-243c-47f2-aa19-e8a4c5962500",
+      "name": "IMG_4071.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4071.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9cd48fa0-f07b-43b1-b9bf-935484e8d9b2",
+      "name": "IMG_4072.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4072.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ebc4f150-9c37-45e4-b292-135e11de73c0",
+      "name": "IMG_4073.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4073.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "baf68506-557a-4fe4-ad4a-00b34e22f404",
+      "name": "IMG_4074.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4074.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d75e015a-8450-46a3-8319-558a6af54876",
+      "name": "IMG_4075.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4075.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4f716ddb-1916-473d-a3f1-00bc2e2e6f5a",
+      "name": "IMG_4076.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4076.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c81d6c02-701a-4ab5-8762-dfeb37fe0df5",
+      "name": "IMG_4077.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4077.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4d15c0ed-273c-4046-b6dd-f56eb8fa9f28",
+      "name": "IMG_4078.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4078.JPG",
+      "similarityGroup": "57e555c7-f681-4b74-a923-b858f2296316",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "63effea0-1a86-4399-9f63-8c576fc6eef1",
+      "name": "IMG_4079.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4079.JPG",
+      "similarityGroup": "57e555c7-f681-4b74-a923-b858f2296316",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4f2c7ac9-9115-4ed7-a722-9138af7bb3d0",
+      "name": "IMG_4080.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4080.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a273d779-fe3e-4ec6-b4db-ae116de345aa",
+      "name": "IMG_4081.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4081.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "787e02a6-05fe-42b8-860c-77a15140ebe9",
+      "name": "IMG_4082.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4082.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c22f2020-5f61-47ed-97e6-f8977c7befac",
+      "name": "IMG_4083.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4083.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "de3ca63f-95f7-4698-8534-1b0a408c24e5",
+      "name": "IMG_4084.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4084.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "430d962f-a507-4bf5-abf6-1cae7d1c65a8",
+      "name": "IMG_4085.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4085.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9005e2c7-27a3-4e0d-a794-6ec2b8a833b9",
+      "name": "IMG_4086.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4086.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "1600ec78-1188-445f-a68a-ba4b9d77490f",
+      "name": "IMG_4087.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4087.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c2ae9a5c-421e-42c0-8654-68f2087efe86",
+      "name": "IMG_4088.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4088.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0a1c89c0-a7b9-416c-ae21-ea38d1c33fac",
+      "name": "IMG_4089.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4089.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "f0933a0c-cdd7-431b-a092-7db69a39344c",
+      "name": "IMG_4090.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4090.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "263bd1f7-77f9-4328-9a1b-2d1f87f8df24",
+      "name": "IMG_4091.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4091.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "3b5a3e03-df24-40f4-8918-162bd5ae3afd",
+      "name": "IMG_4092.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4092.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "093ae8e0-6e99-41d6-9100-04826f7d4d6c",
+      "name": "IMG_4093.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4093.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6b706836-16cf-415e-b485-48e0cfaec8bd",
+      "name": "IMG_4094.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4094.JPG",
+      "similarityGroup": "d228d104-b542-43d9-90b5-02dd8c33460b",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "eebcb7ef-7847-422c-aaac-3e3abc74cb0c",
+      "name": "IMG_4095.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4095.JPG",
+      "similarityGroup": "d228d104-b542-43d9-90b5-02dd8c33460b",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6165e0eb-2052-4628-8f5f-b0e2b65b0b0c",
+      "name": "IMG_4096.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4096.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ca0468a5-67f1-4313-b778-2c217af6c4de",
+      "name": "IMG_4097.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4097.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4c830003-f97b-4f44-957c-280c1ccde030",
+      "name": "IMG_4098.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4098.JPG",
+      "similarityGroup": "3d899b6b-de5b-4a76-a32c-42d1a3b1e995",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "69ecff6b-4804-4e42-8935-63ac47679a5e",
+      "name": "IMG_4099.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4099.JPG",
+      "similarityGroup": "3d899b6b-de5b-4a76-a32c-42d1a3b1e995",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "412a089e-16ed-4dab-b72a-623378d02320",
+      "name": "IMG_4100.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4100.JPG",
+      "similarityGroup": "2d49b8b4-6e38-4644-9938-6bfc709fcdbb",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "cea89c08-b8db-4e81-96ab-b64f43f8f71b",
+      "name": "IMG_4101.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4101.JPG",
+      "similarityGroup": "2d49b8b4-6e38-4644-9938-6bfc709fcdbb",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "780227d8-8581-4f96-97dc-0e550816e038",
+      "name": "IMG_4102.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4102.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "18070172-2ee1-4b97-9fb3-5c038823cb85",
+      "name": "IMG_4103.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4103.JPG",
+      "similarityGroup": "ce96f2f3-79bc-4e99-9ab7-8de2fedbb38d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "14e453bf-0886-43cc-bdcc-824e4189d26a",
+      "name": "IMG_4104.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4104.JPG",
+      "similarityGroup": "ce96f2f3-79bc-4e99-9ab7-8de2fedbb38d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e481099e-f6fd-41a3-bf4f-0573e8f76d3d",
+      "name": "IMG_4105.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4105.JPG",
+      "similarityGroup": "ce96f2f3-79bc-4e99-9ab7-8de2fedbb38d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "32dc6d68-db74-4555-a7d4-5e3d16f199a3",
+      "name": "IMG_4106.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4106.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "fc087286-e5b9-4ea8-a1ae-4889a2f6ac8a",
+      "name": "IMG_4107.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4107.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2a421f7d-b72d-49e7-bf40-d0b0656498cd",
+      "name": "IMG_4108.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4108.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "48b3b4b2-49b9-4356-8c27-0f190d13eff9",
+      "name": "IMG_4109.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4109.JPG",
+      "similarityGroup": "3ec6fae2-2fd0-4d09-ab64-a97f391593ea",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b7970940-9b90-49a0-8733-839f1bc99371",
+      "name": "IMG_4110.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4110.JPG",
+      "similarityGroup": "3ec6fae2-2fd0-4d09-ab64-a97f391593ea",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e19460fc-9026-423f-85a6-74aaf20f96f7",
+      "name": "IMG_4111.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4111.JPG",
+      "similarityGroup": "3ec6fae2-2fd0-4d09-ab64-a97f391593ea",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "753a7a72-6895-4c3f-ae64-5cc0f7be851e",
+      "name": "IMG_4112.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4112.JPG",
+      "similarityGroup": "3ec6fae2-2fd0-4d09-ab64-a97f391593ea",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a9ffcb72-0417-44d1-a342-53b1876a3a29",
+      "name": "IMG_4113.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4113.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4d24cb6a-0966-47fc-9f43-ade551501e7e",
+      "name": "IMG_4114.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4114.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "59566f18-4776-454f-91ce-db95ea6d47fe",
+      "name": "IMG_4115.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4115.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6fc34003-90c2-411a-8d4b-a40b8bb37f07",
+      "name": "IMG_4116.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4116.JPG",
+      "similarityGroup": "6361ffc2-c164-40d0-91a1-bf3a468eb8fa",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b581f1bf-c065-4cbb-b2ee-dd8bd7a22ca2",
+      "name": "IMG_4117.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4117.JPG",
+      "similarityGroup": "6361ffc2-c164-40d0-91a1-bf3a468eb8fa",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9ac46a62-d374-4942-9836-b0d69befd8e0",
+      "name": "IMG_4118.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4118.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "23dd7ee2-96a7-4855-996c-fdad06776e06",
+      "name": "IMG_4119.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4119.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a340f9c9-66f5-49c8-985a-eef9b9de5392",
+      "name": "IMG_4120.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4120.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "32b2a8b3-c932-432b-b31b-7a2d4648b7e6",
+      "name": "IMG_4121.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4121.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "74121df3-66b7-4b4a-af6c-dd0220b585e2",
+      "name": "IMG_4122.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4122.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "dd1de392-0666-4d27-8554-0c212efd0771",
+      "name": "IMG_4123.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4123.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0e5b8dc2-fc57-470e-a54f-f467da67a31a",
+      "name": "IMG_4124.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4124.JPG",
+      "similarityGroup": "404c9a26-aaf1-415c-9a13-5bb6a4766eab",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "399fa9a8-b47f-43de-b106-77e62c403856",
+      "name": "IMG_4125.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4125.JPG",
+      "similarityGroup": "404c9a26-aaf1-415c-9a13-5bb6a4766eab",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a32c6115-a819-4567-94f1-ce9fbb9cc71b",
+      "name": "IMG_4126.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4126.JPG",
+      "similarityGroup": "404c9a26-aaf1-415c-9a13-5bb6a4766eab",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "f42e57d6-0384-4e73-8d40-6671004383d0",
+      "name": "IMG_4127.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4127.JPG",
+      "similarityGroup": "404c9a26-aaf1-415c-9a13-5bb6a4766eab",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ddf5dd88-daf3-42ad-80c4-fead41692df9",
+      "name": "IMG_4128.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4128.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "bd4d378b-98d8-4fcd-877a-dfff3b496732",
+      "name": "IMG_4129.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4129.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b45693cd-7158-458f-8efd-967cdad6591b",
+      "name": "IMG_4130.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4130.JPG",
+      "similarityGroup": "b097142c-1bd8-482c-a990-aec2bae65db1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "96575277-5c3e-47d6-87dd-bd7626477368",
+      "name": "IMG_4131.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4131.JPG",
+      "similarityGroup": "b097142c-1bd8-482c-a990-aec2bae65db1",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "4b952270-8be9-4f91-bf34-5f4b14e4bf55",
+      "name": "IMG_4132.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4132.JPG",
+      "similarityGroup": "00db87f3-b4a8-40a5-a2c6-a2370b2c531c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8a39216c-709a-42a7-b6b6-b5d7c9ccf033",
+      "name": "IMG_4133.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4133.JPG",
+      "similarityGroup": "00db87f3-b4a8-40a5-a2c6-a2370b2c531c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "95031b72-ffef-4eb8-a73f-e82a9f653a9c",
+      "name": "IMG_4134.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4134.JPG",
+      "similarityGroup": "00db87f3-b4a8-40a5-a2c6-a2370b2c531c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "766900b0-739c-4b88-9c2a-fd505a162ebe",
+      "name": "IMG_4135.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4135.JPG",
+      "similarityGroup": "00db87f3-b4a8-40a5-a2c6-a2370b2c531c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "59760d58-f787-408c-915a-a76cf9eb69d4",
+      "name": "IMG_4136.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4136.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "804c6017-03f7-4943-ab63-2a18818f5709",
+      "name": "IMG_4137.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4137.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "0812fd96-15ef-484d-abaa-5df00c9fe92e",
+      "name": "IMG_4138.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4138.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "1af605cd-82f9-4915-8286-04f1635b04b0",
+      "name": "IMG_4139.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4139.JPG",
+      "similarityGroup": "3b7e4c1e-9ad0-4186-9dc9-4f67e7cce4bb",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "cd5932b9-00af-41b0-a559-b78a924827c7",
+      "name": "IMG_4140.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4140.JPG",
+      "similarityGroup": "3b7e4c1e-9ad0-4186-9dc9-4f67e7cce4bb",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6dfc2666-c4ca-4833-8618-47f987a3f4ed",
+      "name": "IMG_4141.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4141.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "cacedce6-7e1d-47aa-a968-223a72e04c90",
+      "name": "IMG_4142.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4142.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8d28a1e6-e51e-4360-b01e-e4826f178133",
+      "name": "IMG_4143.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4143.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "40b0cdb4-ffe6-4bcb-bc16-caaa5c13b8b7",
+      "name": "IMG_4144.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4144.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "efb7f85a-83b0-4f00-83ce-f42a43feecc2",
+      "name": "IMG_4145.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4145.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a25ccb96-ff73-4917-8b0e-750f0f1620e1",
+      "name": "IMG_4146.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4146.JPG",
+      "similarityGroup": "e6198db9-d6bd-450e-b9bc-43692b750bb8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "471f0b5c-89a8-4d91-9a24-1bd0067c349f",
+      "name": "IMG_4147.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4147.JPG",
+      "similarityGroup": "e6198db9-d6bd-450e-b9bc-43692b750bb8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a58aaf69-78e7-40fd-bb60-714b52edcee8",
+      "name": "IMG_4148.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4148.JPG",
+      "similarityGroup": "e32b85a5-f10c-4ed1-bb3a-f6912b5c8d21",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7e053138-5bbf-465e-b30b-db208230c7d9",
+      "name": "IMG_4149.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4149.JPG",
+      "similarityGroup": "e32b85a5-f10c-4ed1-bb3a-f6912b5c8d21",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6b0a24ed-9c98-4a01-b12a-067ba37d0a86",
+      "name": "IMG_4150.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4150.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "79c65fe3-789d-4aab-b68b-307643e97a94",
+      "name": "IMG_4151.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4151.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b53a767e-deef-455f-8110-0c368c9143d5",
+      "name": "IMG_4152.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4152.JPG",
+      "similarityGroup": "649e8532-c8a0-4e3a-abdb-3077f26155dc",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7176ae8c-239f-40b8-b300-c8acfb366beb",
+      "name": "IMG_4153.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4153.JPG",
+      "similarityGroup": "649e8532-c8a0-4e3a-abdb-3077f26155dc",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "103f5e18-de76-4fcd-a464-cc92e996a4a3",
+      "name": "IMG_4154.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4154.JPG",
+      "similarityGroup": "cd64a7ca-f522-421c-98c6-4b1f09fd5543",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "fef3ec8a-deba-4d30-b303-76cad78c17c5",
+      "name": "IMG_4155.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4155.JPG",
+      "similarityGroup": "cd64a7ca-f522-421c-98c6-4b1f09fd5543",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "99eb15c5-2b7d-4ac8-b1a6-a7c6292df1cb",
+      "name": "IMG_4156.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4156.JPG",
+      "similarityGroup": "cd64a7ca-f522-421c-98c6-4b1f09fd5543",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "77ae4f12-dd31-4a5d-ae20-58012618e3c3",
+      "name": "IMG_4157.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4157.JPG",
+      "similarityGroup": "cd64a7ca-f522-421c-98c6-4b1f09fd5543",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "29510892-43e0-4515-b2d9-233451fd2427",
+      "name": "IMG_4158.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4158.JPG",
+      "similarityGroup": "cd64a7ca-f522-421c-98c6-4b1f09fd5543",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "aed7905c-4359-4b21-bea6-51add1aea12c",
+      "name": "IMG_4159.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4159.JPG",
+      "similarityGroup": "cd64a7ca-f522-421c-98c6-4b1f09fd5543",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2e1c9883-4bd5-48f5-8c31-98392a1d5b55",
+      "name": "IMG_4160.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4160.JPG",
+      "similarityGroup": "c6cd5476-c5ac-4fa7-bfc7-6dcc1b6a1244",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "110f55b5-7a19-48ec-b757-076418613dc5",
+      "name": "IMG_4161.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4161.JPG",
+      "similarityGroup": "c6cd5476-c5ac-4fa7-bfc7-6dcc1b6a1244",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7bf47af3-86c0-4c22-a56f-1af0941c530c",
+      "name": "IMG_4162.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4162.JPG",
+      "similarityGroup": "f34e7815-82f7-4fb5-92c6-3d93ccef7a9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8fcb0f7e-3495-4723-86b2-89768e5bbabe",
+      "name": "IMG_4163.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4163.JPG",
+      "similarityGroup": "f34e7815-82f7-4fb5-92c6-3d93ccef7a9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8e3d586c-d240-44ce-b854-7a3d024400a6",
+      "name": "IMG_4164.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4164.JPG",
+      "similarityGroup": "f34e7815-82f7-4fb5-92c6-3d93ccef7a9f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e128bec5-b536-4462-ad6b-55ba926d6692",
+      "name": "IMG_4165.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4165.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d6ccf23f-da6c-4f84-8035-aedd83fc32f4",
+      "name": "IMG_4166.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4166.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "cdc3d192-0c46-49ef-8043-4107d9dde024",
+      "name": "IMG_4167.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4167.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9991c282-e14b-4bc0-a656-8368f58ff93f",
+      "name": "IMG_4168.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4168.JPG",
+      "similarityGroup": "0287f67c-6fe3-471c-a114-390d72ce0be4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8aa00ebd-b89a-4d40-a0f4-547aa7ac8fb5",
+      "name": "IMG_4169.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4169.JPG",
+      "similarityGroup": "0287f67c-6fe3-471c-a114-390d72ce0be4",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c2574b80-d5a9-4365-bfbb-af76051f002b",
+      "name": "IMG_4170.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4170.JPG",
+      "similarityGroup": "cdc1b176-8100-478b-96ee-dcaf72dc13bd",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ada63b3a-2d6a-4f2e-b968-be56d82d99f5",
+      "name": "IMG_4171.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4171.JPG",
+      "similarityGroup": "cdc1b176-8100-478b-96ee-dcaf72dc13bd",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "99d67c54-20ce-42f4-b851-f2cb58412097",
+      "name": "IMG_4172.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4172.JPG",
+      "similarityGroup": "4103e55a-7dc5-4f32-b95d-332c2698ae21",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b1380043-05ed-42a8-8f9b-ecefbb5996ea",
+      "name": "IMG_4173.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4173.JPG",
+      "similarityGroup": "4103e55a-7dc5-4f32-b95d-332c2698ae21",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "464a5775-9cd2-4757-bebc-4062a96d3c1d",
+      "name": "IMG_4174.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4174.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "7e76fbda-cde5-48ee-b9ff-51877d3bd07a",
+      "name": "IMG_4175.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4175.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e57c004e-1e36-4a46-84ae-a54f7c0dc5e2",
+      "name": "IMG_4176.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4176.JPG",
+      "similarityGroup": "8d72affc-4666-449d-8be4-21dacb47ed89",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "154e5628-0ddc-4b67-b9a8-3bfe169c67d7",
+      "name": "IMG_4177.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4177.JPG",
+      "similarityGroup": "8d72affc-4666-449d-8be4-21dacb47ed89",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9711e689-42e5-47da-932e-a32ceca7e909",
+      "name": "IMG_4178.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4178.JPG",
+      "similarityGroup": "8d72affc-4666-449d-8be4-21dacb47ed89",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "3b3e14ed-1b69-4d02-adec-df7b730b996a",
+      "name": "IMG_4179.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4179.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "8bba96d8-63f9-4f66-978f-f756b3f5dd7a",
+      "name": "IMG_4180.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4180.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "1cf4c075-dfc6-41a8-b40b-fc3e361b8333",
+      "name": "IMG_4181.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4181.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b291d6d7-3371-4ab8-9eb3-fc8571ee197b",
+      "name": "IMG_4182.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4182.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "1e9e16d2-ebb5-40d4-b6a0-13e8d37563eb",
+      "name": "IMG_4183.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4183.JPG",
+      "similarityGroup": "30d61f16-2cba-49ae-a77b-0d199a6cda5d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "d992de43-cd2b-4697-afcf-ddd8568e4b60",
+      "name": "IMG_4184.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4184.JPG",
+      "similarityGroup": "30d61f16-2cba-49ae-a77b-0d199a6cda5d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9334b0da-34da-492b-9add-789227184aca",
+      "name": "IMG_4185.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4185.JPG",
+      "similarityGroup": "30d61f16-2cba-49ae-a77b-0d199a6cda5d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "73710b61-133a-4dba-9c1a-7477eed1d9eb",
+      "name": "IMG_4186.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4186.JPG",
+      "similarityGroup": "30d61f16-2cba-49ae-a77b-0d199a6cda5d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "63ab1fdd-33a3-45ac-8f1b-877c911526e1",
+      "name": "IMG_4187.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4187.JPG",
+      "similarityGroup": "30d61f16-2cba-49ae-a77b-0d199a6cda5d",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "2a0c633e-11d7-4f66-aed4-2049e5fe44dd",
+      "name": "IMG_4188.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4188.JPG",
+      "similarityGroup": "6d587f45-8f59-4e7a-b51c-fe5c102d2f5f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "19b92718-d92f-4f2a-958c-f512a21bc0bb",
+      "name": "IMG_4189.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4189.JPG",
+      "similarityGroup": "6d587f45-8f59-4e7a-b51c-fe5c102d2f5f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "5fbe1000-6aee-4427-8b52-8d5b05a35a1b",
+      "name": "IMG_4190.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4190.JPG",
+      "similarityGroup": "6d587f45-8f59-4e7a-b51c-fe5c102d2f5f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "3dcca166-5ae1-4503-9e2c-9bd5f264c584",
+      "name": "IMG_4191.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4191.JPG",
+      "similarityGroup": "6d587f45-8f59-4e7a-b51c-fe5c102d2f5f",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "e11d040d-faaf-4979-9e48-451ba6c00677",
+      "name": "IMG_4192.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4192.JPG",
+      "similarityGroup": "efe677fc-eb14-4e22-9980-3b898dda4764",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a28adb75-5a2a-4b2f-b0f4-f0fb7897cf6d",
+      "name": "IMG_4193.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4193.JPG",
+      "similarityGroup": "efe677fc-eb14-4e22-9980-3b898dda4764",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "eedca929-f87b-4878-838f-b1fb017de4cd",
+      "name": "IMG_4194.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4194.JPG",
+      "similarityGroup": "efe677fc-eb14-4e22-9980-3b898dda4764",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6ec2e33c-1ad0-4c8d-9c55-396d0b694a13",
+      "name": "IMG_4195.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4195.JPG",
+      "similarityGroup": "efe677fc-eb14-4e22-9980-3b898dda4764",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "1a471973-e1f8-42dc-8227-4bfdff952cd9",
+      "name": "IMG_4196.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4196.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "c46098fe-5ae3-4022-8db1-f8f09f355097",
+      "name": "IMG_4197.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4197.JPG",
+      "similarityGroup": "aa865cd6-001a-4d9a-b8c5-bfe05b5dac0c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "5d841bb7-db4b-4e56-a3b7-1e522582b1f3",
+      "name": "IMG_4198.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4198.JPG",
+      "similarityGroup": "aa865cd6-001a-4d9a-b8c5-bfe05b5dac0c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "b005dac5-f7eb-4839-847a-baef571846cd",
+      "name": "IMG_4199.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4199.JPG",
+      "similarityGroup": "aa865cd6-001a-4d9a-b8c5-bfe05b5dac0c",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "442c99eb-9867-4612-9734-3e7865bc6721",
+      "name": "IMG_4200.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4200.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "ce2e7997-686a-432f-b755-3ea4f9cf0795",
+      "name": "IMG_4201.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4201.JPG",
+      "similarityGroup": "9f8f6357-0449-4714-87f5-5cd521982df8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "6e7e623c-0e4f-4d03-b81d-f4eb6e846c62",
+      "name": "IMG_4202.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4202.JPG",
+      "similarityGroup": "9f8f6357-0449-4714-87f5-5cd521982df8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "13507be3-eb60-4e8f-a250-a3c8ad903892",
+      "name": "IMG_4203.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4203.JPG",
+      "similarityGroup": "9f8f6357-0449-4714-87f5-5cd521982df8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "a7ad6ccb-ede0-4cb7-acd8-b1617862ab62",
+      "name": "IMG_4204.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4204.JPG",
+      "similarityGroup": "9f8f6357-0449-4714-87f5-5cd521982df8",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "db308556-2140-4e77-ad9c-95c238e1bf31",
+      "name": "IMG_4205.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4205.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "70a85cf4-0963-4729-ab4e-4bb1080b7c12",
+      "name": "IMG_4206.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4206.JPG",
+      "ignored": false,
+      "deleted": false
+    },
+    {
+      "id": "9f8a5fd1-cc17-4c76-a726-3c3bed371ad9",
+      "name": "IMG_4207.JPG",
+      "path": "/Users/andem/amsterdam_photo/IMG_4207.JPG",
+      "ignored": false,
+      "deleted": false
+    }
+  ]
+}

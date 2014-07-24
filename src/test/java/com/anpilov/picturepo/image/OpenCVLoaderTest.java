@@ -18,8 +18,9 @@ public class OpenCVLoaderTest {
 	}
 
 	@Test
-	public void testDllResourceExists() {
-		URL url = OpenCVLoader.getDllResource();
+	public void testLibResourceExists() {
+		URL url = OpenCVLoader.getLibResource();
 		assertTrue(new File(url.getFile()).exists());
 	}
+
 }

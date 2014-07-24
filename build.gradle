@@ -8,6 +8,7 @@ dependencies {
 
     compile 'org.slf4j:slf4j-api:1.7.5'
     compile 'com.google.guava:guava:17.0'
+    compile 'com.google.code.gson:gson:2.2.4'
 
     compile files('lib/opencv-249.jar')
 
