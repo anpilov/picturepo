@@ -1,16 +1,33 @@
 apply plugin: 'java'
+apply plugin: 'war'
+apply plugin: 'jetty'
 
 repositories {
     mavenCentral()
 }
 
+sourceCompatibility = '1.7'
+targetCompatibility = '1.7'
+
 dependencies {
 
+    /* Spring */
+    compile 'org.springframework:spring-core:4.0.5.RELEASE'
+    compile 'org.springframework:spring-context:4.0.5.RELEASE'
+    compile 'org.springframework:spring-web:4.0.5.RELEASE'
+    compile 'org.springframework:spring-webmvc:4.0.5.RELEASE'
+
+    /* Logging */
     compile 'org.slf4j:slf4j-api:1.7.5'
+
+    /* Utils */
     compile 'com.google.guava:guava:17.0'
     compile 'com.google.code.gson:gson:2.2.4'
 
     compile files('lib/opencv-249.jar')
+
+    compile 'org.eclipse.jetty:jetty-server:9.2.1.v20140609';
+    compile 'org.eclipse.jetty:jetty-webapp:9.2.1.v20140609';
 
     testCompile 'junit:junit:4.11'
 }

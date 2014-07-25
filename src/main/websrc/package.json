@@ -1,0 +1,14 @@
+{
+    "name": "picturepo-client-ui",
+    "version": "0.0.1",
+    "description": "Picturepo client application",
+    "devDependencies": {
+        "gulp": "^3.8.6",
+        "gulp-angular-templatecache": "^1.2.1",
+        "gulp-clean": "^0.3.1",
+        "gulp-concat": "^2.3.3",
+        "gulp-ng-annotate": "^0.2.0",
+        "gulp-uglify": "^0.3.1",
+        "gulp-api-log": "^0.1.1"
+    }
+}

@@ -1,5 +1,8 @@
+.idea/
+*.iml
 .gradle
 build/
 out/
-.idea/
-*.iml
+src/main/webapp/compiled
+src/main/websrc/node_modules
+
