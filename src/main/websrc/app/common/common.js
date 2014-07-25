@@ -1,3 +1,0 @@
-function common() {
-    alert('common');
-}

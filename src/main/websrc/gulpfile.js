@@ -1,7 +1,11 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var clean = require('gulp-clean');
+var less = require('gulp-less');
+var minifyCss = require('gulp-minify-css')
+var watch = require('gulp-watch');
 var uglify = require('gulp-uglify');
+var gutil = require('gulp-util');
 var ngTemplateCache = require('gulp-angular-templatecache');
 var ngAnnotate = require('gulp-ng-annotate');
 
@@ -9,51 +13,58 @@ exports.gulp = gulp;
 
 var moduleName = 'picturepoClient';
 
-var targetDir = 'target/compile';
+var targetDir = '../webapp/app';
 
-var jsSources = ['src/module.js', 'src/**/*.js'];
-var cssSources = ['src/**/*.css'];
-var templateSources = ['src/**/*.html'];
+var jsSources = ['app/module.js', 'app/**/*.js'];
+var templateSources = ['app/**/*.html'];
+var lessSources = ['app/**/*.less'];
 
-gulp.task('clean', function() {
-    return gulp.src(targetDir).pipe(clean());
+var productionBuild = true;
+
+gulp.task('clean', function () {
+    return gulp.src(targetDir).pipe(clean({ force: true }));
 });
 
-gulp.task('build-prod', ['clean'], function() {
-    gulp.src(cssSources)
+gulp.task('build', ['clean', 'compile-less', 'compile-js', 'compile-templates']);
+
+gulp.task('watch', ['clean'], function () {
+    productionBuild = false;
+    watch({glob: lessSources}, function () {
+        gulp.start('compile-less');
+    });
+    watch({glob: jsSources}, function () {
+        gulp.start('compile-js');
+    });
+    watch({glob: templateSources}, function () {
+        gulp.start('compile-templates');
+    });
+});
+
+gulp.task('compile-less', function () {
+    return gulp.src(lessSources)
+        .pipe(less())
         .pipe(concat('main.css'))
+        .pipe(production(minifyCss()))
         .pipe(gulp.dest(targetDir));
-
-    gulp.src(jsSources)
-        .pipe(concat('app.js'))
-        .pipe(ngAnnotate())
-        .pipe(uglify())
-        .pipe(gulp.dest(targetDir));
-
-    gulp.src(templateSources)
-        .pipe(ngTemplateCache({ module: moduleName }))
-        .pipe(ngAnnotate())
-        .pipe(uglify())
-        .pipe(gulp.dest(targetDir));
-});
-
-gulp.task('build-dev', ['clean', 'compile-css', 'compile-js', 'compile-templates']);
-
-gulp.task('compile-css', function () {
-    return gulp.src(cssSources).pipe(concat('main.css')).pipe(gulp.dest(targetDir));
 });
 
 gulp.task('compile-js', function () {
-    return gulp.src(jsSources).pipe(concat('app.js')).pipe(gulp.dest(targetDir))
+    return gulp.src(jsSources)
+        .pipe(concat('app.js'))
+        .pipe(production(ngAnnotate()))
+        .pipe(production(uglify()))
+        .pipe(gulp.dest(targetDir));
 });
 
 gulp.task('compile-templates', function () {
-    return gulp.src(templateSources).pipe(ngTemplateCache({ module: moduleName })).pipe(gulp.dest(targetDir));
+    return gulp.src(templateSources)
+        .pipe(ngTemplateCache({ module: moduleName }))
+        .pipe(production(ngAnnotate()))
+        .pipe(production(uglify()))
+        .pipe(gulp.dest(targetDir));
 });
 
-gulp.task('watch', function () {
-    gulp.watch(jsSources, ['compile-js']);
-    gulp.watch(cssSources, ['compile-css']);
-    gulp.watch(templateSources, ['compile-templates']);
-});
+function production(pipe) {
+    return productionBuild ? pipe : gutil.noop();
+}
 

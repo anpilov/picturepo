@@ -31,3 +31,14 @@ dependencies {
 
     testCompile 'junit:junit:4.11'
 }
+
+task compileUi << {
+    def stdout = new ByteArrayOutputStream()
+    exec {
+        workingDir 'src/main/websrc'
+        commandLine 'node', 'gulprun.js', 'build'
+        standardOutput = stdout;
+    }
+    logger.info("$stdout");
+}
+war.dependsOn compileUi

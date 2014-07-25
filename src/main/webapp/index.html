@@ -1,13 +1,25 @@
-<html>
-
+<!doctype html>
+<html lang="en">
 <head>
-
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="app/main.css" rel="stylesheet" type="text/css" />
 </head>
 
-<body>
+<body ng-app="picturepoClient">
 
-index html
+<div class="container">
+
+    <div ng-view></div>
+
+</div>
+
+<script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular-route.min.js"></script>
+<script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.0.min.js"></script>
+
+<script src="app/app.js"></script>
+<script src="app/templates.js"></script>
 
 </body>
-
 </html>

@@ -3,6 +3,6 @@
 .gradle
 build/
 out/
-src/main/webapp/compiled
+src/main/webapp/app
 src/main/websrc/node_modules
 
