@@ -2,6 +2,7 @@ package com.anpilov.picturepo.launcher;
 
 import com.google.common.base.Splitter;
 import com.google.common.collect.Lists;
+import com.google.common.io.Resources;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;
 
@@ -22,7 +23,8 @@ public class LauncherDevMode {
 		webapp.setDescriptor(webapp + "src/webapp/WEB-INF/web.xml");
 		webapp.setResourceBase("src/main/webapp");
 		webapp.setContextPath("/");
-		webapp.setParentLoaderPriority(true);
+		webapp.setParentLoaderPriority(false);
+		webapp.setDefaultsDescriptor(Resources.getResource("com/anpilov/picturepo/launcher/webdefault.xml").getFile());
 
 		server.setHandler(webapp);
 		server.start();

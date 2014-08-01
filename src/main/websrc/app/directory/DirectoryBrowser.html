@@ -1,0 +1,27 @@
+<div class="modal-header">
+    <button type="button" class="close" ng-click="cancel()"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+    <h4 class="modal-title">Select gallery folder</h4>
+</div>
+
+<div class="modal-body directoryBrowser">
+
+    <div class="directoryBrowser-path ellipsis-left">{{ directory.path }}</div>
+
+    <div class="directoryBrowser-item"ng-click="changeDir(directory.parent)">
+        <i class="glyphicon glyphicon-arrow-up"></i>..
+    </div>
+
+    <div class="directoryBrowser-item"ng-repeat="gallery in directory.galleries" ng-click="loadGallery(gallery.path)">
+        <i class="glyphicon glyphicon-camera"></i>{ gallery.name }}
+    </div>
+
+    <div class="directoryBrowser-item"ng-repeat="subdir in directory.subdirs" ng-click="changeDir(subdir.path)">
+        <i class="glyphicon glyphicon-folder-open"></i>{{ subdir.name }}
+    </div>
+
+</div>
+
+<div class="modal-footer">
+    <button type="button" class="btn btn-primary" ng-click="loadGallery(directory.path)" ng-show="directory.imageCount > 0">Load gallery with {{ directory.imageCount }} images</button>
+    <button type="button" class="btn btn-default" ng-click="cancel()">Cancel</button>
+</div>

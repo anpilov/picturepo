@@ -1,4 +1,4 @@
-package com.anpilov.picturepo.upload;
+package com.anpilov.picturepo.common;
 
 import com.google.common.io.Files;
 

@@ -1,6 +1,5 @@
-package com.anpilov.picturepo.image;
+package com.anpilov.picturepo.common;
 
-import com.anpilov.picturepo.common.ApplicationException;
 import com.google.common.io.Files;
 import com.google.common.io.Resources;
 

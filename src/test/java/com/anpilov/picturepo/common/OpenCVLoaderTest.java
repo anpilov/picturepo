@@ -1,4 +1,4 @@
-package com.anpilov.picturepo.image;
+package com.anpilov.picturepo.common;
 
 import org.junit.Test;
 import org.opencv.core.Core;

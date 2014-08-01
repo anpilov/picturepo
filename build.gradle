@@ -23,6 +23,7 @@ dependencies {
     /* Utils */
     compile 'com.google.guava:guava:17.0'
     compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.4.1.3'
 
     compile files('lib/opencv-249.jar')
 
@@ -30,6 +31,8 @@ dependencies {
     compile 'org.eclipse.jetty:jetty-webapp:9.2.1.v20140609';
 
     testCompile 'junit:junit:4.11'
+    testCompile 'org.mockito:mockito-all:1.9.5'
+
 }
 
 task compileUi << {

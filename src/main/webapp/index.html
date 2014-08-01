@@ -1,25 +1,28 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
+
+     <!-- libs css -->
     <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <!-- libs js -->
+    <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular-route.min.js"></script>
+    <script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.0.min.js"></script>
+
+    <!-- app -->
     <link href="app/main.css" rel="stylesheet" type="text/css" />
+    <script src="app/app.js"></script>
+    <script src="app/templates.js"></script>
+
 </head>
 
 <body ng-app="picturepoClient">
 
-<div class="container">
-
-    <div ng-view></div>
-
-</div>
-
-<script src="http://code.jquery.com/jquery-2.1.1.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular-route.min.js"></script>
-<script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.0.min.js"></script>
-
-<script src="app/app.js"></script>
-<script src="app/templates.js"></script>
+    <div class="container">
+        <div ng-view></div>
+    </div>
 
 </body>
 </html>
